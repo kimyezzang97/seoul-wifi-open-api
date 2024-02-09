@@ -45,3 +45,4 @@ JSP로 OPEN API(서울특별시_공공와이파이)를 활용하여 가까운 �
 
 ---
 ### :movie_camera: 시연연상
+[![시연영상](http://img.youtube.com/vi/ORD2-jGF2NU/0.jpg)](https://youtu.be/ORD2-jGF2NU?t=0s) 
