@@ -12,7 +12,7 @@ JSP로 OPEN API(서울특별시_공공와이파이)를 활용하여 가까운 �
 - CSS : BootStrap 3.3
 
 ---
-### :heavy_minus_sign: 활용 전 주의 사항
+### :heavy_exclamation_mark: 활용 전 주의 사항
 [https가 아니라 이슈 발생 조치 방법 (localhost는 괜찮음)]
 1. chrome://flags/#unsafely-treat-insecure-origin-as-secure 크롬에서 입력
 2. http://www.yezzang.pe.kr:1005 입력 (자신의 url) - enabled
