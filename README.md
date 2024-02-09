@@ -4,12 +4,12 @@ JSP로 OPEN API(서울특별시_공공와이파이)를 활용하여 가까운 �
 ---
 ### :cd: 개발환경
 - JAVA 11
-- :IDE: : Eclipse
-- :OS: : Windows10
-- :DB: : MariaDB 10.x
-- :Server: : Tomcat 10.0
-- :ERD: : Draw.io
-- :CSS: : BootStrap 3.3
+- IDE : Eclipse
+- OS : Windows10
+- DB : MariaDB 10.x
+- Server : Tomcat 10.0
+- ERD : Draw.io
+- CSS : BootStrap 3.3
 
 ---
 ### :heavy_minus_sign: 활용 전 주의 사항
